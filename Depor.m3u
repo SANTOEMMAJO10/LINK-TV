@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telemedellin
+https://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecafe
+http://tv.nousiptv.com:25462/Omy/1234/2128
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",City Tv
+http://tv.nousiptv.com:25462/Omy/1234/1987
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/JjfNJBR/caracol-tv.jpg" group-title="Colombia",Caracol
+http://tv.nousiptv.com:25462/Omy/1234/4094
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN
+http://tv.nousiptv.com:25462/Omy/1234/4002
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Senal Colombia
+http://tv.nousiptv.com:25462/Omy/1234/2163
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
+http://tv.nousiptv.com:25462/Omy/1234/23239
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv sports-2
+http://tv.nousiptv.com:25462/Omy/1234/32881
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 [latm]
+http://tv.nousiptv.com:25462/Omy/1234/18580
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 [latm]
+http://tv.nousiptv.com:25462/Omy/1234/42456
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 3 [latm]
+http://tv.nousiptv.com:25462/Omy/1234/43640
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 [MEX]
+http://tv.nousiptv.com:25462/Omy/1234/3267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 [MEX]
+http://tv.nousiptv.com:25462/Omy/1234/3268
+#EXTINF:-1 tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 [MEX]
+http://tv.nousiptv.com:25462/Omy/1234/4008
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 (latm)
+http://tv.nousiptv.com:25462/Omy/1234/33469
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (latm)
+http://tv.nousiptv.com:25462/Omy/1234/3616
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (latm)
+http://tv.nousiptv.com:25462/Omy/1234/43639
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus (latm)
+http://tv.nousiptv.com:25462/Omy/1234/43638
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn (MEX)
+http://tv.nousiptv.com:25462/Omy/1234/3178
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 (MEX)
+http://tv.nousiptv.com:25462/Omy/1234/3258
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 (MEX)
+http://tv.nousiptv.com:25462/Omy/1234/3260
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
+http://tv.nousiptv.com:25462/Omy/1234/12011
+#EXTINF:-1 tvg-logo="https://www.golfchannel.com/sites/default/files/new_golf_channel_logo_304.jpg" group-title="DEPORTES",Golf Channel
+http://tv.nousiptv.com:25462/Omy/1234/33363
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Win Sports +
+http://tv.nousiptv.com:25462/Omy/1234/16723
